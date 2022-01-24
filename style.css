@@ -1,0 +1,46 @@
+body{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: start;
+    
+}
+#in{
+    background: linear-gradient(to right, #ff3399 7%, #cc99ff 92%);
+    height:620px;
+    width: 1249px;
+    border-radius: 40px;
+
+}
+img{
+    height: 545px;
+
+}
+#logo{
+    height:20px;
+    width:20px;
+}
+input{
+    width:50px;
+}
+#mobile{
+    height: 600px;
+}
+#name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align:top;
+    color:gold
+    
+}
+#sign_up{
+    color:greenyellow
+}
+#loginpro{
+height:625px;
+}
+#top{
+width:1250px;
+background-color: greenyellow;
+}
